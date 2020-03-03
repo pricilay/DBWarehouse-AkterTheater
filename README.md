@@ -1,3 +1,3 @@
 # DBWarehouse-AkterTheater
 
-![Logo](AkterLogo.png)
+![Logo](pricilay/DBWarehouse-AkterTheater/AkterLogo.png)
