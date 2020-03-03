@@ -1,6 +1,6 @@
 # Data Architechture - Aktor Theater 
 
-![Logo](https://github.com/pricilay/DBWarehouse-AkterTheater/blob/master/AktorLogo.png){width=50%}
+![Logo](https://github.com/pricilay/DBWarehouse-AkterTheater/blob/master/AktorLogo.png) =250x)
 <p>&nbsp;</p>
 
 OBJECTIVE
